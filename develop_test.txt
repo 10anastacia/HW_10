@@ -1,0 +1,3 @@
+develop branch was added by command 'checkout'
+empty file 'develop_test.txt' was created
+changes was added by command 'git add .'
